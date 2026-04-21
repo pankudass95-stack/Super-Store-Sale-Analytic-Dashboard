@@ -1,0 +1,117 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2021-152156,2021-11-08,2021-11-11,Second Class,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0,41.91
+CA-2021-152156,2021-11-08,2021-11-11,Second Class,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,731.94,3,0,219.58
+CA-2021-138688,2021-06-12,2021-06-16,Second Class,Darrin Van Huff,Corporate,United States,Los Angeles,California,West,Office Supplies,Labels,Self-Adhesive Address Labels,14.62,2,0,6.87
+US-2020-108966,2020-10-11,2020-10-18,Standard Class,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,South,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,957.58,5,0.45,-383.03
+US-2020-108966,2020-10-11,2020-10-18,Standard Class,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,South,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,22.37,2,0.2,2.52
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Furniture,Furnishings,Eldon Expressions Wood and Plastic Desk Accessories,48.86,7,0,14.17
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Office Supplies,Art,Newell 322,7.28,4,0,1.97
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Technology,Phones,Mitel 5320 IP Phone VoIP phone,907.15,6,0.2,90.71
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Office Supplies,Binders,DXL Angle-View Binders with Locking Rings,18.5,3,0.2,5.78
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Office Supplies,Art,Faber-Castell ART GRIP Aquarelle,114.9,5,0,34.47
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Furniture,Tables,Chromcraft Rectangular Conference Tables,1706.18,9,0.2,85.31
+CA-2021-115812,2021-06-09,2021-06-14,Standard Class,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Technology,Phones,Konftel 250 Conference phone,911.42,4,0.2,68.36
+CA-2022-167164,2022-09-17,2022-09-21,Second Class,Annie Cyprus,Consumer,United States,Fort Worth,Texas,Central,Office Supplies,Labels,Avery 504,65.99,4,0,13.2
+CA-2022-143567,2022-03-14,2022-03-17,First Class,Eugene Moren,Home Office,United States,San Diego,California,West,Furniture,Furnishings,Howard Miller 11-1/2" Diameter Alder,46.93,7,0,13.18
+CA-2022-143567,2022-03-14,2022-03-17,First Class,Eugene Moren,Home Office,United States,San Diego,California,West,Office Supplies,Binders,Avery Durable Slant Ring Binders,119.2,6,0.2,16.49
+CA-2022-135545,2022-09-18,2022-09-22,Second Class,Chloris Kastensmidt,Consumer,United States,Jacksonville,Florida,South,Office Supplies,Paper,Xerox 1967,15.55,2,0,5.44
+CA-2022-135545,2022-09-18,2022-09-22,Second Class,Chloris Kastensmidt,Consumer,United States,Jacksonville,Florida,South,Technology,Machines,Canon PC1060 Personal Laser Copier,665.88,6,0.4,-167.71
+CA-2022-137330,2022-11-22,2022-11-26,Second Class,Yoseph Carroll,Consumer,United States,Decatur,Alabama,South,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,4099.98,2,0,1659.99
+CA-2022-137330,2022-11-22,2022-11-26,Second Class,Yoseph Carroll,Consumer,United States,Decatur,Alabama,South,Technology,Phones,Nokia Smart Phone with Caller ID,1639.96,4,0,582.94
+CA-2022-137330,2022-11-22,2022-11-26,Second Class,Yoseph Carroll,Consumer,United States,Decatur,Alabama,South,Office Supplies,Binders,GBC Binding covers,123.86,4,0.1,22.22
+CA-2021-156720,2021-04-16,2021-04-21,Standard Class,Peter Fuller,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Appliances,Hoover Replacement Belt,13.98,3,0,4.44
+CA-2021-156720,2021-04-16,2021-04-21,Standard Class,Peter Fuller,Consumer,United States,Chicago,Illinois,Central,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,1675.22,5,0.5,-438.53
+CA-2021-156720,2021-04-16,2021-04-21,Standard Class,Peter Fuller,Consumer,United States,Chicago,Illinois,Central,Technology,Phones,Apple iPhone,239.96,2,0,67.19
+CA-2022-101343,2022-07-07,2022-07-13,Standard Class,Lena Hernandez,Home Office,United States,Seattle,Washington,West,Technology,Accessories,Plantronics Voyager Pro HD Headset,2799.95,7,0,1079.98
+CA-2022-101343,2022-07-07,2022-07-13,Standard Class,Lena Hernandez,Home Office,United States,Seattle,Washington,West,Office Supplies,Art,Fiskars 8" Classic Scissors,17.46,3,0,6.11
+CA-2022-101343,2022-07-07,2022-07-13,Standard Class,Lena Hernandez,Home Office,United States,Seattle,Washington,West,Furniture,Chairs,SAFCO Commercio Executive Leather Armchair,2573.82,3,0.2,386.07
+CA-2022-101343,2022-07-07,2022-07-13,Standard Class,Lena Hernandez,Home Office,United States,Seattle,Washington,West,Office Supplies,Binders,Wilson Jones Easy-Flow Sheet Lifters,37.6,4,0,15.98
+CA-2021-109183,2021-05-21,2021-05-28,Standard Class,Zuschuss Donatelli,Consumer,United States,Houston,Texas,Central,Office Supplies,Binders,Acco EL1 Economy Hardcase D-Ring View Binders,2.98,2,0.8,-4.55
+CA-2021-109183,2021-05-21,2021-05-28,Standard Class,Zuschuss Donatelli,Consumer,United States,Houston,Texas,Central,Technology,Phones,Logitech G602 Lag-Free Wireless Gaming Mouse,90.47,2,0,45.54
+CA-2021-109183,2021-05-21,2021-05-28,Standard Class,Zuschuss Donatelli,Consumer,United States,Houston,Texas,Central,Technology,Accessories,Verbatim 25 Pack DVD+R,7.31,4,0,1.69
+CA-2020-161389,2020-12-05,2020-12-10,Second Class,Ken Black,Consumer,United States,San Francisco,California,West,Technology,Phones,Samsung Convoy 3,221.98,2,0,62.15
+CA-2020-161389,2020-12-05,2020-12-10,Second Class,Ken Black,Consumer,United States,San Francisco,California,West,Office Supplies,Storage,Fiskars Box Cutter,22.368,3,0.2,2.516
+CA-2020-161389,2020-12-05,2020-12-10,Second Class,Ken Black,Consumer,United States,San Francisco,California,West,Office Supplies,Binders,Cardinal Easy-Open D-Ring Binders,8.632,2,0.2,3.035
+CA-2023-100678,2023-01-08,2023-01-11,First Class,Sanjit Chand,Consumer,United States,New York City,New York,East,Office Supplies,Paper,Xerox 4200 Series MultiUse Premium Copy Paper,30.8,5,0,11.2
+CA-2023-100678,2023-01-08,2023-01-11,First Class,Sanjit Chand,Consumer,United States,New York City,New York,East,Technology,Phones,Logitech Wireless Mouse,48.16,2,0,19.26
+CA-2023-113847,2023-02-15,2023-02-17,First Class,Mike Chen,Corporate,United States,Boston,Massachusetts,East,Technology,Copiers,HP LaserJet 3310 Copier,1577.91,3,0,487.46
+CA-2023-113847,2023-02-15,2023-02-17,First Class,Mike Chen,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Envelopes,Kraft Clasp Envelopes,14.69,5,0,6.83
+CA-2023-119617,2023-03-20,2023-03-24,Standard Class,Anna Andreadi,Consumer,United States,Atlanta,Georgia,South,Furniture,Furnishings,Eldon Wave Desk Accessories,15.28,2,0,5.35
+CA-2023-119617,2023-03-20,2023-03-24,Standard Class,Anna Andreadi,Consumer,United States,Atlanta,Georgia,South,Technology,Accessories,Logitech 910-002974 Wireless Keyboard,159.95,3,0,63.98
+CA-2023-119617,2023-03-20,2023-03-24,Standard Class,Anna Andreadi,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Art,Avery Dots-On-A-Page,4.98,3,0,2.49
+CA-2023-119617,2023-03-20,2023-03-24,Standard Class,Anna Andreadi,Consumer,United States,Atlanta,Georgia,South,Furniture,Chairs,Novimex Executive Chair,1283.91,7,0.35,-354.81
+CA-2023-125428,2023-04-10,2023-04-13,First Class,Tom Ashbrook,Corporate,United States,Dallas,Texas,Central,Technology,Machines,Ativa V4110MDD Micro-Cut Shredder,499.99,2,0,199.99
+CA-2023-125428,2023-04-10,2023-04-13,First Class,Tom Ashbrook,Corporate,United States,Dallas,Texas,Central,Office Supplies,Storage,Advantus Panel Wall File,39.95,3,0,13.97
+CA-2023-125428,2023-04-10,2023-04-13,First Class,Tom Ashbrook,Corporate,United States,Dallas,Texas,Central,Office Supplies,Binders,Avery Round Ring Reference Binders,10.58,2,0,4.23
+CA-2023-131245,2023-05-22,2023-05-28,Standard Class,Rachel Brown,Consumer,United States,Phoenix,Arizona,West,Technology,Accessories,Cisco TelePresence System,4399.95,1,0,1099.99
+CA-2023-131245,2023-05-22,2023-05-28,Standard Class,Rachel Brown,Consumer,United States,Phoenix,Arizona,West,Office Supplies,Paper,Avery Printable Postcards,19.92,2,0,8.95
+CA-2023-139876,2023-06-14,2023-06-19,Second Class,Daniel Ruiz,Home Office,United States,Denver,Colorado,West,Furniture,Bookcases,O'Sullivan Plantations 2-Door Library in Landvermoor Oak,1299.98,4,0.2,194.99
+CA-2023-139876,2023-06-14,2023-06-19,Second Class,Daniel Ruiz,Home Office,United States,Denver,Colorado,West,Technology,Phones,Polycom CX500 IP Phone,999.95,2,0,399.98
+CA-2023-139876,2023-06-14,2023-06-19,Second Class,Daniel Ruiz,Home Office,United States,Denver,Colorado,West,Office Supplies,Supplies,Fiskars 8" Micro-Tip Scissors,32.46,3,0,12.99
+CA-2023-147523,2023-07-08,2023-07-11,First Class,Lisa Wang,Corporate,United States,Chicago,Illinois,Central,Technology,Machines,Fellowes PB500 Electric Punch,1699.00,3,0.1,424.75
+CA-2023-147523,2023-07-08,2023-07-11,First Class,Lisa Wang,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Binders,Avery 4-Pocket Slim Show File,9.58,3,0,3.83
+CA-2023-155789,2023-08-19,2023-08-23,Standard Class,James Park,Consumer,United States,Miami,Florida,South,Furniture,Tables,Bretford Rectangular Conference Table Top,1289.55,3,0.45,-429.85
+CA-2023-155789,2023-08-19,2023-08-23,Standard Class,James Park,Consumer,United States,Miami,Florida,South,Technology,Accessories,Memorex Mini Travel Drive 8 GB,99.95,5,0,39.98
+CA-2023-163412,2023-09-05,2023-09-10,Second Class,Sarah Johnson,Consumer,United States,Portland,Oregon,West,Technology,Copiers,Xerox WorkCentre 6655,3899.99,2,0,1559.99
+CA-2023-163412,2023-09-05,2023-09-10,Second Class,Sarah Johnson,Consumer,United States,Portland,Oregon,West,Office Supplies,Storage,Safco Commercial Wire Shelving,299.99,2,0,89.99
+CA-2023-171235,2023-10-12,2023-10-16,First Class,Kevin Martinez,Corporate,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,HON 5400 Series Task Chairs,1259.97,3,0.2,251.99
+CA-2023-171235,2023-10-12,2023-10-16,First Class,Kevin Martinez,Corporate,United States,Philadelphia,Pennsylvania,East,Technology,Phones,Plantronics CS510 Wireless Headset,699.99,3,0,280.00
+CA-2023-171235,2023-10-12,2023-10-16,First Class,Kevin Martinez,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Labels,Avery Self-Adhesive Address Labels,11.97,3,0,5.98
+CA-2023-179056,2023-11-20,2023-11-24,Standard Class,Amy Taylor,Consumer,United States,Minneapolis,Minnesota,Central,Technology,Accessories,Logitech Harmony 650 Remote,99.95,2,0,39.98
+CA-2023-179056,2023-11-20,2023-11-24,Standard Class,Amy Taylor,Consumer,United States,Minneapolis,Minnesota,Central,Office Supplies,Paper,Hammermill Copy Plus Copy Paper,56.48,4,0,22.59
+CA-2023-179056,2023-11-20,2023-11-24,Standard Class,Amy Taylor,Consumer,United States,Minneapolis,Minnesota,Central,Furniture,Furnishings,Tensor Brushed Steel Torchiere Floor Lamp,95.98,2,0.2,14.40
+CA-2023-186743,2023-12-02,2023-12-06,First Class,Robert Kim,Home Office,United States,San Francisco,California,West,Technology,Machines,HP Designjet T520 Inkjet Large Format Printer,3999.95,1,0,1599.98
+CA-2023-186743,2023-12-02,2023-12-06,First Class,Robert Kim,Home Office,United States,San Francisco,California,West,Furniture,Bookcases,Sauder Beginnings Storage Cabinet,719.98,2,0.2,107.99
+CA-2023-186743,2023-12-02,2023-12-06,First Class,Robert Kim,Home Office,United States,San Francisco,California,West,Office Supplies,Envelopes,Recycled Clasp Envelopes,9.99,2,0,3.99
+CA-2022-145293,2022-01-13,2022-01-17,Standard Class,Laura Wilson,Consumer,United States,Austin,Texas,Central,Technology,Phones,Samsung Galaxy S21,799.99,2,0,319.99
+CA-2022-145293,2022-01-13,2022-01-17,Standard Class,Laura Wilson,Consumer,United States,Austin,Texas,Central,Office Supplies,Art,Sanford Sharpie Marker Pens,11.96,4,0,5.38
+CA-2022-152876,2022-02-28,2022-03-04,Second Class,David Brown,Corporate,United States,Washington DC,District of Columbia,East,Technology,Copiers,Lexmark MX711 Monochrome Laser Printer,2749.95,1,0,1099.98
+CA-2022-152876,2022-02-28,2022-03-04,Second Class,David Brown,Corporate,United States,Washington DC,District of Columbia,East,Office Supplies,Binders,Avery Heavy Duty View Binders,39.98,4,0.1,14.39
+CA-2022-160534,2022-04-17,2022-04-22,Standard Class,Emily Davis,Consumer,United States,Los Angeles,California,West,Furniture,Chairs,La-Z-Boy Soho Executive Chair,699.98,2,0,209.99
+CA-2022-160534,2022-04-17,2022-04-22,Standard Class,Emily Davis,Consumer,United States,Los Angeles,California,West,Technology,Accessories,SanDisk 128GB Extreme Pro SSD,249.95,3,0,99.98
+CA-2022-168192,2022-05-30,2022-06-03,First Class,Chris Anderson,Home Office,United States,New York City,New York,East,Technology,Phones,Apple iPhone 13,1099.99,2,0,439.99
+CA-2022-168192,2022-05-30,2022-06-03,First Class,Chris Anderson,Home Office,United States,New York City,New York,East,Office Supplies,Storage,Sterilite 3-Drawer Storage Unit,49.98,3,0,17.49
+CA-2022-175851,2022-06-14,2022-06-18,Standard Class,Jessica Moore,Consumer,United States,Houston,Texas,Central,Furniture,Tables,Bevis Steel Folding Chairs,589.95,5,0.3,-59.0
+CA-2022-175851,2022-06-14,2022-06-18,Standard Class,Jessica Moore,Consumer,United States,Houston,Texas,Central,Technology,Accessories,Plantronics Voyager Legend,179.99,2,0,71.99
+CA-2022-183509,2022-07-25,2022-07-29,Second Class,Ryan White,Corporate,United States,Chicago,Illinois,Central,Technology,Machines,Nortel Networks 3904 IP Phone,899.96,4,0,359.98
+CA-2022-183509,2022-07-25,2022-07-29,Second Class,Ryan White,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Paper,Avery Thermal Labels,27.92,4,0,11.17
+CA-2022-191167,2022-08-30,2022-09-03,First Class,Nicole Garcia,Consumer,United States,San Diego,California,West,Furniture,Bookcases,Concept Wooden Bookcases Metal Frame,999.96,4,0.3,-99.99
+CA-2022-191167,2022-08-30,2022-09-03,First Class,Nicole Garcia,Consumer,United States,San Diego,California,West,Technology,Phones,Cisco SPA502G IP Phone,349.98,2,0,139.99
+CA-2022-198825,2022-09-12,2022-09-16,Standard Class,Mark Thompson,Home Office,United States,Denver,Colorado,West,Technology,Copiers,Samsung CLP-315W Color Laser Printer,1199.98,2,0,479.99
+CA-2022-198825,2022-09-12,2022-09-16,Standard Class,Mark Thompson,Home Office,United States,Denver,Colorado,West,Office Supplies,Art,Crayola Washable Markers,11.97,3,0,5.38
+CA-2022-206483,2022-10-20,2022-10-25,Second Class,Samantha Jackson,Consumer,United States,Portland,Oregon,West,Furniture,Chairs,HON Pagoda Stacking Chairs,899.97,3,0.2,134.99
+CA-2022-206483,2022-10-20,2022-10-25,Second Class,Samantha Jackson,Consumer,United States,Portland,Oregon,West,Technology,Accessories,Belkin 7-Outlet Pivot-Plug Power Strip,29.98,2,0,11.99
+CA-2022-214141,2022-11-08,2022-11-12,First Class,Andrew Martinez,Corporate,United States,Miami,Florida,South,Technology,Machines,Fellowes Jupiter 125 Laminator,579.99,2,0.1,144.99
+CA-2022-214141,2022-11-08,2022-11-12,First Class,Andrew Martinez,Corporate,United States,Miami,Florida,South,Office Supplies,Binders,Avery Durable Slant Ring Binders,44.97,3,0.1,16.19
+CA-2022-221799,2022-12-15,2022-12-19,Standard Class,Megan Robinson,Consumer,United States,Phoenix,Arizona,West,Technology,Phones,RCA ViSYS 25260 Cordless Phone,149.97,3,0,59.99
+CA-2022-221799,2022-12-15,2022-12-19,Standard Class,Megan Robinson,Consumer,United States,Phoenix,Arizona,West,Furniture,Furnishings,Howard Miller 11" Diameter Wall Clock,79.98,2,0,23.99
+CA-2021-198654,2021-01-10,2021-01-14,Standard Class,William Clark,Consumer,United States,Minneapolis,Minnesota,Central,Office Supplies,Storage,Crate-A-Files,24.99,3,0,10.00
+CA-2021-198654,2021-01-10,2021-01-14,Standard Class,William Clark,Consumer,United States,Minneapolis,Minnesota,Central,Technology,Accessories,Kensington SmartFit Keyboard Platform,59.99,2,0,23.99
+CA-2021-206312,2021-02-22,2021-02-25,First Class,Melissa Lewis,Corporate,United States,Boston,Massachusetts,East,Technology,Copiers,HP Color LaserJet 1600 Printer,699.95,1,0,279.98
+CA-2021-206312,2021-02-22,2021-02-25,First Class,Melissa Lewis,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Paper,Xerox Multipurpose Paper,29.95,5,0,10.48
+CA-2021-213970,2021-03-31,2021-04-04,Second Class,Charles Hall,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Tables,Chromcraft Bull-Nose Wood Table,1309.95,3,0.45,-522.37
+CA-2021-213970,2021-03-31,2021-04-04,Second Class,Charles Hall,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Phones,Motorola Smart Phone,199.98,2,0,79.99
+CA-2021-221628,2021-05-12,2021-05-17,Standard Class,Patricia Young,Home Office,United States,Nashville,Tennessee,South,Technology,Machines,Brother MFC-9130CW Color Laser All-in-One,399.99,1,0,159.99
+CA-2021-221628,2021-05-12,2021-05-17,Standard Class,Patricia Young,Home Office,United States,Nashville,Tennessee,South,Office Supplies,Binders,Avery Flexi-View Binders,14.97,3,0,6.73
+CA-2021-229286,2021-06-18,2021-06-23,Standard Class,Joseph Allen,Consumer,United States,Jacksonville,Florida,South,Furniture,Chairs,Global Troy Executive High-Back,799.98,2,0.2,159.99
+CA-2021-229286,2021-06-18,2021-06-23,Standard Class,Joseph Allen,Consumer,United States,Jacksonville,Florida,South,Technology,Accessories,Koss CS195 PC Headset,39.99,3,0,15.99
+CA-2021-236944,2021-07-29,2021-08-02,First Class,Sandra Hernandez,Corporate,United States,Atlanta,Georgia,South,Technology,Phones,Cisco IP Phone 7941G,399.99,2,0,159.99
+CA-2021-236944,2021-07-29,2021-08-02,First Class,Sandra Hernandez,Corporate,United States,Atlanta,Georgia,South,Office Supplies,Paper,Acco 8-1/2" x 11" Pressboard Report Covers,14.23,5,0,4.98
+CA-2021-244602,2021-09-10,2021-09-14,Second Class,Kevin Young,Consumer,United States,Dallas,Texas,Central,Furniture,Bookcases,Sauder Forest Hills Collection,449.97,3,0,107.99
+CA-2021-244602,2021-09-10,2021-09-14,Second Class,Kevin Young,Consumer,United States,Dallas,Texas,Central,Technology,Copiers,Zebra GX420t Direct Thermal Printer,999.99,1,0,399.99
+CA-2021-252260,2021-10-21,2021-10-25,Standard Class,Deborah Lopez,Home Office,United States,Seattle,Washington,West,Technology,Machines,Avery Thermal Label Printer,199.99,2,0.1,49.99
+CA-2021-252260,2021-10-21,2021-10-25,Standard Class,Deborah Lopez,Home Office,United States,Seattle,Washington,West,Office Supplies,Art,Avery Marks-A-Lot Chisel Tip Markers,4.98,3,0,1.99
+CA-2020-193254,2020-01-22,2020-01-27,Standard Class,Ronald Wilson,Consumer,United States,Chicago,Illinois,Central,Technology,Accessories,Targus PAUM30U Mobile 10-Button USB Mouse,22.99,2,0,9.19
+CA-2020-193254,2020-01-22,2020-01-27,Standard Class,Ronald Wilson,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Binders,Acco Pressboard Heavy-Duty Binder,49.98,4,0.1,17.99
+CA-2020-200912,2020-02-28,2020-03-04,Second Class,Linda Thomas,Corporate,United States,Los Angeles,California,West,Furniture,Furnishings,DAX Contemporary Wood Frame,79.99,2,0,31.99
+CA-2020-200912,2020-02-28,2020-03-04,Second Class,Linda Thomas,Corporate,United States,Los Angeles,California,West,Technology,Phones,AT&T ML17929 Two-Line Corded Phone,89.95,2,0,35.98
+CA-2020-208570,2020-04-05,2020-04-10,First Class,Barbara Jackson,Consumer,United States,New York City,New York,East,Technology,Copiers,Hewlett Packard LaserJet 3310,3199.98,2,0,1279.99
+CA-2020-208570,2020-04-05,2020-04-10,First Class,Barbara Jackson,Consumer,United States,New York City,New York,East,Office Supplies,Envelopes,Jiffy Padded Mailers,7.98,3,0,3.19
+CA-2020-216228,2020-05-19,2020-05-23,Standard Class,Daniel Martinez,Home Office,United States,San Jose,California,West,Furniture,Tables,Lesro Lounge Series Guest,539.95,2,0.25,-44.99
+CA-2020-216228,2020-05-19,2020-05-23,Standard Class,Daniel Martinez,Home Office,United States,San Jose,California,West,Technology,Accessories,Logitech Gaming Mouse G402,59.95,2,0,23.98
+CA-2020-223886,2020-06-30,2020-07-04,Second Class,Susan Anderson,Consumer,United States,Boston,Massachusetts,East,Technology,Machines,Okidata B4545 MFP Laser Printer,699.95,1,0,279.98
+CA-2020-223886,2020-06-30,2020-07-04,Second Class,Susan Anderson,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Art,Dixon Ticonderoga Pencils,4.72,4,0,1.65
+CA-2020-231544,2020-08-14,2020-08-18,First Class,Edward Walker,Corporate,United States,Houston,Texas,Central,Furniture,Chairs,SAFCO PlanMaster Tilter Chair,879.98,2,0.2,175.99
+CA-2020-231544,2020-08-14,2020-08-18,First Class,Edward Walker,Corporate,United States,Houston,Texas,Central,Technology,Phones,Aastra 57i CT,1999.95,1,0,799.98
+CA-2020-239202,2020-09-25,2020-09-29,Standard Class,Sharon Thompson,Consumer,United States,Phoenix,Arizona,West,Technology,Accessories,Kensington K72339US USB 3.0 Hub,89.99,2,0,35.99
+CA-2020-239202,2020-09-25,2020-09-29,Standard Class,Sharon Thompson,Consumer,United States,Phoenix,Arizona,West,Office Supplies,Paper,Xerox 1941,11.64,2,0,4.07
